@@ -22,8 +22,7 @@
 <li><strong>Traffic Control <em>Tower</em></strong> +1 or <em>+2</em> radius for Stargate</li>
 </ul>
 <p><strong>Explanation:</strong><br>
-Defensive fleets, which includes Scouts &amp; Recons against Sabotages, can all be deployed to the station which has the Navy Base.<br>
-Offensive fleets can be deployed to one of the other two station under the influence of the Stargate. If the station is attacked deploy them to the other station so they won’t have to fight in the defensive battle.</p>
+Defensive fleets, which includes Scouts &amp; Recons against Sabotages, can all be deployed to the station which has the Navy Base. Offensive fleets can be deployed to one of the other two station under the influence of the Stargate. If the station is attacked deploy them to the other station so they won’t have to fight in the defensive battle.</p>
 <h2 id="industrial">Industrial</h2>
 <p>Search for a location with the highest resource planet cluster you can find. As many hexes adjacent to the planets should be free and the hexes farther away should have high resource fields. Even empty fields are preferable over low resource fields.</p>
 <h4 id="placement-priorities-1">Placement Priorities:</h4>
