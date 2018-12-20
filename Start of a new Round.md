@@ -24,7 +24,6 @@
 <li>2x same type (25 ships combined) for missions <em>[split 24/1 if you want to powerlevel one fleet]</em></li>
 <li>∞ scouts with 1 ship each to reveal missions</li>
 <li>1x industrial for Solar Flares and Outposts</li>
-<li>3x industrials if you want to Raid <em>[damage is split and you won’t loose ships]</em></li>
 </ul>
 </li>
 <li>Send <strong>4 corvette fleets</strong> to your marauder with all your corvettes evenly split between them</li>
