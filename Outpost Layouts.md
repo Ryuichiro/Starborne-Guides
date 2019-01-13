@@ -5,7 +5,8 @@
 
 <h1 id="outpost-layouts">Outpost Layouts</h1>
 <h2 id="military">Military:</h2>
-<p>Search for a location with as many free hexes as possible. Your main cluster will have a radius of 2 with as many stations in the 2. ring as T3 outposts in the 1. ring and center combined. Ice fields would be a plus but outside the main cluster.</p>
+<p><img src="https://i.imgur.com/xIFdJSN.jpg" alt="enter image description here"><br>
+Search for a location with as many free hexes as possible. Your main cluster will have a radius of 2 with as many stations in the 2. ring as T3 outposts in the 1. ring and center combined. Ice fields would be a plus but outside the main cluster.</p>
 <h4 id="placement-priorities">Placement Priorities:</h4>
 <ul>
 <li><strong>Navy Base</strong> at the center.</li>
