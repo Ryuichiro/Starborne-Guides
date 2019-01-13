@@ -45,4 +45,7 @@ Defensive fleets, which includes Scouts &amp; Recons against Sabotages, can all 
 <li><strong>Mining Robots</strong> +30% harvest yield  for Station</li>
 <li><strong>Armed Drones</strong> +1 harvest radius &amp; +50% harvest yield for Missile Batteries</li>
 </ul>
+<h3 id="more-screenshots">More Screenshots</h3>
+<p><img src="https://i.imgur.com/qRzdvfD.jpg" alt="Military cluster with Industrial extension"><br>
+<img src="https://i.imgur.com/l7OhI3U.jpg" alt="a perfect cluster"></p>
 
