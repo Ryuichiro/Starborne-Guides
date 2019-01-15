@@ -48,5 +48,7 @@ Defensive fleets, which includes Scouts &amp; Recons against Sabotages, can all 
 <h3 id="more-screenshots">More Screenshots</h3>
 <p><img src="https://i.imgur.com/qRzdvfD.jpg" alt="Military cluster with Industrial extension"><br>
 <img src="https://i.imgur.com/l7OhI3U.jpg" alt="62,207"><br>
-<img src="https://i.imgur.com/gQlT8pw.jpg" alt="62,158"></p>
+<img src="https://i.imgur.com/gQlT8pw.jpg" alt="62,158"><br>
+<img src="https://i.imgur.com/qU09oTQ.jpg" alt="-30,290"><br>
+<img src="https://i.imgur.com/X3T61j0.jpg" alt="-17,249"></p>
 
