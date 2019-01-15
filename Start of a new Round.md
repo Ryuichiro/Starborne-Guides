@@ -13,7 +13,7 @@
 <li>Craft &amp; equip one of the following: <s><strong>Metal Depot</strong></s> | <s><strong>Gas Silo</strong></s> | <strong>Crystal Vault</strong></li>
 <li>Queue: <strong>Smelting Plant 1</strong> -&gt; <strong>all Refineries 1</strong> -&gt; <strong>Shipyard 1</strong> -&gt; <strong>Command Center 2</strong></li>
 <li>Equip <strong>Wither Crux</strong> <em>[reward for all refineries 1]</em></li>
-<li>Upgrade buildings in intervals to 1, 3, 5, 7 ,10 (to get the tasks done)</li>
+<li>Upgrade buildings in intervals to 1, 3, 5, 7 ,10 (CC has 6 instead of 7, to mess with us…)</li>
 <li>Prioritize <strong>Command Center</strong> &amp; <strong>Smelting Plant</strong> for their superior influence value</li>
 </ul>
 <h3 id="fleets">Fleets</h3>
