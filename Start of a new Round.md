@@ -7,7 +7,7 @@
 <p>Always check for completed Tasks and claim the reward as long as you don’t go over your resource capacity. It can be beneficial to wait for a Command Center upgrade before you queue additional buildings because the build time reduction is only applied for new orders, same story with the reduced costs from Smelting Plant.</p>
 <h3 id="buildings">Buildings</h3>
 <ul>
-<li>Create an alliance</li>
+<li>Create an alliance (for the teask, leave it instantly if you want)</li>
 <li>Craft and equip a <strong>Willy Gamish</strong></li>
 <li>Craft &amp; equip one of the following: <s><strong>Ionization Chamber</strong></s> | <s><strong>Solar Panels</strong></s> | <strong>Core Schematics</strong></li>
 <li>Craft &amp; equip one of the following: <s><strong>Metal Depot</strong></s> | <s><strong>Gas Silo</strong></s> | <strong>Crystal Vault</strong></li>
